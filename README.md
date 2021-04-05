@@ -1,3 +1,3 @@
 # Welcome site
 
-https://uddipta-pro.github.io/cv/
+https://uddipta-pro.github.io/Welcome/
